@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @torresvaldener
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Valdener Torres </h1>
+
+- 👋 Hi, I’m Valdener Torres
+- I’m currently learning React
+
+
 
 <!---
 torresvaldener/torresvaldener is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
