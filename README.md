@@ -16,13 +16,8 @@
   <img align="center" alt="Linux icon" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linux/linux-original.svg">
 </div>
 
-## Most used languages:
-<div>
-  <a href="https://github.com/torresvaldener">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torresvaldener&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
-  ##
+## Contact
 
 <a href="https://www.linkedin.com/in/torresvaldener" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
