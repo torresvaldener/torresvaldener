@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Valdener Torres
 
-🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍/𝖧𝖳𝖬𝖫/𝖢𝖲𝖲
-
 👨🏻‍🎓 Studying: Information Systems at Universidade Veiga de Almeida (UVA)
 
 ## Languages and Tools:
