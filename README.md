@@ -33,9 +33,9 @@ Um aprendiz ao longo da vida. Gosto de como os Dados mudam pespectivas.
 
 Minhas tecnologias principais são **Python** e **SQL**.
 
-Minhas habilidades principais são **Criação de Dashboards** utilizando Power BI e Looker Studio,** Análise e Criação de Scripts** utilizando Python e **Manuseio de Banco de Dados**.
+Minhas habilidades principais são **Criação de Dashboards** utilizando Power BI e Looker Studio, **Análise e Criação de Scripts** utilizando Python e **Manuseio de Banco de Dados**.
 
-Atualmente estou trabalhando como Estagiário de BI na Editora Globo.
+Atualmente sou Analista de Dados Jr na Editora Globo
 
 </div>
 </details>
