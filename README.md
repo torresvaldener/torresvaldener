@@ -1,4 +1,4 @@
-<h1 align="center"> Valdener Torres </h1>
+<h1 align="center"> Valdener Junior </h1>
     
 <div align="center">
 <b>Analista de Dados | Cientista de Dados | 🐍🤖🎲 </b>
